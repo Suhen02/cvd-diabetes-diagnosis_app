@@ -1,4 +1,4 @@
-﻿#CVD-Diabetes-Diagnosis app
+﻿## CVD-Diabetes-Diagnosis app
 ![Project Banner](https://via.placeholder.com/800x200?text=Diabetes+Risk+Predictor) 
 
 A Flask-based web application that predicts diabetes risk using machine learning.
@@ -22,3 +22,4 @@ A Flask-based web application that predicts diabetes risk using machine learning
    ```bash
    git[ clone https://github.com/Suhen02/disease_risk_pridictor.git]
    cd disease_risk_pridictor
+
