@@ -1,8 +1,5 @@
-﻿# disease_risk_pridictor
-# Byte_busters25
-# Diabetes Risk Prediction System
-
-![Project Banner](https://via.placeholder.com/800x200?text=Diabetes+Risk+Predictor) <!-- Replace with actual image -->
+﻿#CVD-Diabetes-Diagnosis app
+![Project Banner](https://via.placeholder.com/800x200?text=Diabetes+Risk+Predictor) 
 
 A Flask-based web application that predicts diabetes risk using machine learning.
 
